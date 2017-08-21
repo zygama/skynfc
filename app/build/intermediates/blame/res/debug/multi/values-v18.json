@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Hotspot\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+        "outputFile": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\\Hotspot\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,55 @@
                     "endOffset": 99
                 },
                 "from": {
-                    "file": "C:\\Android\\.android\\build-cache\\410ce6de3c9351d192c10bf53641a3bf63c21224\\output\\res\\values-v18\\values-v18.xml",
+                    "file": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\\Android\\.android\\build-cache\\410ce6de3c9351d192c10bf53641a3bf63c21224\\output\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/home/sofiane/.android/build-cache/abe1d96863fb12e65f7743da326f74c7ddab4d63/output/res/values-v18/values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/home/sofiane/.android/build-cache/abe1d96863fb12e65f7743da326f74c7ddab4d63/output/res/values-v18/values-v18.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

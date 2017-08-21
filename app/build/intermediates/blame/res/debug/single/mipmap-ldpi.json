@@ -1,6 +1,14 @@
 [
     {
-        "merged": "C:\\Hotspot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi\\ic_launcher.png",
-        "source": "C:\\Hotspot\\app\\src\\main\\res\\mipmap-ldpi\\ic_launcher.png"
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/res/merged/debug/mipmap-ldpi/ic_launcher.png",
+        "source": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/src/main/res/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\\Hotspot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi\\ic_launcher.png",
+        "source": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\\Hotspot\\app\\src\\main\\res\\mipmap-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/build/intermediates/res/merged/debug/mipmap-ldpi/ic_launcher.png",
+        "source": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/res/mipmap-ldpi/ic_launcher.png"
     }
 ]

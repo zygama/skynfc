@@ -1,10 +1,26 @@
 [
     {
-        "merged": "C:\\Hotspot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
-        "source": "C:\\Android\\.android\\build-cache\\195faae07530c3583ba889402fe07db761e89294\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\\Hotspot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\\Android\\.android\\build-cache\\195faae07530c3583ba889402fe07db761e89294\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     },
     {
-        "merged": "C:\\Hotspot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
-        "source": "C:\\Android\\.android\\build-cache\\195faae07530c3583ba889402fe07db761e89294\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/sofiane/.android/build-cache/23027e4b2d98afc689caf52bf3058bd9dd037500/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\\Hotspot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\\Android\\.android\\build-cache\\195faae07530c3583ba889402fe07db761e89294\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/sofiane/.android/build-cache/23027e4b2d98afc689caf52bf3058bd9dd037500/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/sofiane/.android/build-cache/23027e4b2d98afc689caf52bf3058bd9dd037500/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/sofiane/.android/build-cache/23027e4b2d98afc689caf52bf3058bd9dd037500/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
     }
 ]

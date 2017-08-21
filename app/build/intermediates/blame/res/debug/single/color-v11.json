@@ -1,10 +1,26 @@
 [
     {
-        "merged": "C:\\Hotspot\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Android\\.android\\build-cache\\410ce6de3c9351d192c10bf53641a3bf63c21224\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/sofiane/.android/build-cache/abe1d96863fb12e65f7743da326f74c7ddab4d63/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "C:\\Hotspot\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Android\\.android\\build-cache\\410ce6de3c9351d192c10bf53641a3bf63c21224\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\\Hotspot\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\\Android\\.android\\build-cache\\410ce6de3c9351d192c10bf53641a3bf63c21224\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/sofiane/.android/build-cache/abe1d96863fb12e65f7743da326f74c7ddab4d63/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/sofiane/.android/build-cache/abe1d96863fb12e65f7743da326f74c7ddab4d63/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\\Hotspot\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\\Android\\.android\\build-cache\\410ce6de3c9351d192c10bf53641a3bf63c21224\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/sofiane/.android/build-cache/abe1d96863fb12e65f7743da326f74c7ddab4d63/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

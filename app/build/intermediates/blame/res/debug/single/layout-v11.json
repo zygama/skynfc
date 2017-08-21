@@ -1,26 +1,74 @@
 [
     {
-        "merged": "C:\\Hotspot\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
-        "source": "C:\\Android\\.android\\build-cache\\410ce6de3c9351d192c10bf53641a3bf63c21224\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\\Hotspot\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\\Android\\.android\\build-cache\\410ce6de3c9351d192c10bf53641a3bf63c21224\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "C:\\Hotspot\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
-        "source": "C:\\Android\\.android\\build-cache\\410ce6de3c9351d192c10bf53641a3bf63c21224\\output\\res\\layout-v11\\notification_media_action.xml"
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/sofiane/.android/build-cache/abe1d96863fb12e65f7743da326f74c7ddab4d63/output/res/layout-v11/notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Hotspot\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
-        "source": "C:\\Android\\.android\\build-cache\\410ce6de3c9351d192c10bf53641a3bf63c21224\\output\\res\\layout-v11\\notification_template_big_media.xml"
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\\Hotspot\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\\Android\\.android\\build-cache\\410ce6de3c9351d192c10bf53641a3bf63c21224\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Hotspot\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
-        "source": "C:\\Android\\.android\\build-cache\\410ce6de3c9351d192c10bf53641a3bf63c21224\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/sofiane/.android/build-cache/abe1d96863fb12e65f7743da326f74c7ddab4d63/output/res/layout-v11/notification_template_big_media_custom.xml"
     },
     {
-        "merged": "C:\\Hotspot\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
-        "source": "C:\\Android\\.android\\build-cache\\410ce6de3c9351d192c10bf53641a3bf63c21224\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\\Hotspot\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\\Android\\.android\\build-cache\\410ce6de3c9351d192c10bf53641a3bf63c21224\\output\\res\\layout-v11\\notification_media_action.xml"
     },
     {
-        "merged": "C:\\Hotspot\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Android\\.android\\build-cache\\410ce6de3c9351d192c10bf53641a3bf63c21224\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/sofiane/.android/build-cache/abe1d96863fb12e65f7743da326f74c7ddab4d63/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\\Hotspot\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\\Android\\.android\\build-cache\\410ce6de3c9351d192c10bf53641a3bf63c21224\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\\Hotspot\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\\Android\\.android\\build-cache\\410ce6de3c9351d192c10bf53641a3bf63c21224\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/sofiane/.android/build-cache/abe1d96863fb12e65f7743da326f74c7ddab4d63/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/sofiane/.android/build-cache/abe1d96863fb12e65f7743da326f74c7ddab4d63/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/sofiane/.android/build-cache/abe1d96863fb12e65f7743da326f74c7ddab4d63/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/sofiane/.android/build-cache/abe1d96863fb12e65f7743da326f74c7ddab4d63/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/sofiane/.android/build-cache/abe1d96863fb12e65f7743da326f74c7ddab4d63/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\\Hotspot\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\\Android\\.android\\build-cache\\410ce6de3c9351d192c10bf53641a3bf63c21224\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/sofiane/.android/build-cache/abe1d96863fb12e65f7743da326f74c7ddab4d63/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/sofiane/.android/build-cache/abe1d96863fb12e65f7743da326f74c7ddab4d63/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/sofiane/.android/build-cache/abe1d96863fb12e65f7743da326f74c7ddab4d63/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/sofiane/.android/build-cache/abe1d96863fb12e65f7743da326f74c7ddab4d63/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
     }
 ]

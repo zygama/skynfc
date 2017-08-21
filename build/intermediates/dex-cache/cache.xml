@@ -2,22 +2,139 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Hotspot\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/sofiane/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.0"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\Hotspot\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2c5439ca9c3acd7f58f69f658538bf40db65c48e\classes.dex" />
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_37df6567942149652da3d5ee2cf8e06b6ccc1d07.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Hotspot\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/sofiane/.android/build-cache/e7a43e96a78816db69094db03dbac040ba4bef6b/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.0"
-        sha1="814b571b941b039d5973337d5985db027efbb07a">
-        <dex dex="C:\Hotspot\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c2a6d36d9e2c5b5ce06863188e14f342fdbc8684\classes.dex" />
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/pre-dexed/debug/classes_0c679153dfb2e186caddcfe556e26f53d1cd0233.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sofiane/.android/build-cache/23027e4b2d98afc689caf52bf3058bd9dd037500/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/pre-dexed/debug/classes_d6762d66c35b0caab25116c307b60d35af47388b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sofiane/.android/build-cache/df28abb5628b004e6eac6baade46e128b8a27654/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/pre-dexed/debug/classes_1ed13bffab3fce1fb78d18956256ef711488674f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sofiane/.android/build-cache/c894f3cb0e17a3d9c2a6ffc209114517291717f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/pre-dexed/debug/classes_26d3ed966027b4081c6e810c0f7fccecdafa81fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sofiane/.android/build-cache/abe1d96863fb12e65f7743da326f74c7ddab4d63/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/pre-dexed/debug/classes_1c9892e2df0a6779675643c3e76320718cb29c2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sofiane/.android/build-cache/9ac8ed0c219bb7fe27cad5b69d5d2ee3ed125837/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/pre-dexed/debug/classes_4a6a766648495c97cd1fe0f7bcace566e62d4205.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sofiane/.android/build-cache/4f3ec2e4693c78effe4837390631c900cb8a9d2c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/pre-dexed/debug/classes_016b6cc1d476246b9661c27bfc310952996acd68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sofiane/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_bae2fbb4c1fe88c1ea5e851c23b544eb692117cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sofiane/.android/build-cache/8bc02e018fac9043b810595d670663225e8ad1de/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/pre-dexed/debug/classes_ebb2d54e017dbb4605dddb9701c280ada8c8c432.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sofiane/.android/build-cache/f6823397881209edf1ab92eb727d1c3dca8fbd43/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/pre-dexed/debug/classes_0c0c39cd13bd5f525b88878c420cd9e0831797d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sofiane/.android/build-cache/87bc92d58912a6795ae8ba3be2e8bb5dd2574c40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/pre-dexed/debug/classes_c58b0c9d749f62b7dfd813c45b4a1258969e41bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sofiane/.android/build-cache/ad96c315fb8ae91b3c7d99f765242505e5cd5386/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/pre-dexed/debug/classes_5b5c06c6bb9a4b41d6e4dd8a0bffb73269ff50f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sofiane/.android/build-cache/273fecc0a39eb413b196b2a2d45c5692e6e444ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/pre-dexed/debug/classes_814cce4dd147d7edb3c430f0e29a659537fe7d89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sofiane/.android/build-cache/2ffdfa199aee69b8dc9d347c90cecfd02f4d1370/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/pre-dexed/debug/classes_ae99dda2a76a2e1e697f52b2f6e8817d498e8e4b.jar" />
     </item>
 
 </items>

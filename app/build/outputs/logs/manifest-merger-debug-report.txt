@@ -1,119 +1,119 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:2:1-28:12
 	package
-		ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:3:5-37
-		INJECTED from C:\Hotspot\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Hotspot\app\src\main\AndroidManifest.xml
+		ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Hotspot\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Hotspot\app\src\main\AndroidManifest.xml
+		INJECTED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Hotspot\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Hotspot\app\src\main\AndroidManifest.xml
+		INJECTED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:5:5-76
+ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:5:5-76
 	android:name
-		ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:5:22-73
+		ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:5:22-73
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:6:5-76
+ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:6:5-76
 	android:name
-		ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:6:22-73
+		ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:6:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:7:5-79
+ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:7:5-79
 	android:name
-		ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:7:22-76
+		ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:7:22-76
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:8:5-73
+ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:8:5-73
 	android:name
-		ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:8:22-70
+		ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:8:22-70
 uses-permission#android.permission.CHANGE_NETWORK_STATE
-ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:9:5-79
+ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:9:22-76
+		ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:9:22-76
 uses-permission#android.permission.INTERNET
-ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:10:5-67
+ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:10:5-67
 	android:name
-		ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:10:22-64
+		ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:10:22-64
 application
-ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:12:5-26:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Android\.android\build-cache\9a5f048a50b08f18e3ac9afc74948cdec750df4e\output\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:design:26.0.0-alpha1] C:\Android\.android\build-cache\195faae07530c3583ba889402fe07db761e89294\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Android\.android\build-cache\410ce6de3c9351d192c10bf53641a3bf63c21224\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Android\.android\build-cache\e1fa3c3d1a6779b05ccbd47c77aa4549d287f921\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Android\.android\build-cache\a00be6e534d5d1030a804779b53ca8f0f25b80b2\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Android\.android\build-cache\20f7f9d075d0ca9b56b66f127f3b18428f02d04b\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Android\.android\build-cache\d1a101cc056c064b50bab538c47060b4dac631d7\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Android\.android\build-cache\de6e48767b4b83a870ddf3088c16bd16f0d447ff\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Android\.android\build-cache\abed571863e4f157061f44b36bb046c33e08e8a4\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Android\.android\build-cache\2c0d318132a933e5d8ffefe4a1d459d626cc9b15\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Android\.android\build-cache\3faf47e8b7f7d35c4e48e196c6010bf67fa99ff5\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Android\.android\build-cache\bedbe5bfaac572a217fc9a6476ee39ab4b7f8ce8\output\AndroidManifest.xml:29:5-20
+ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:12:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/sofiane/.android/build-cache/e7a43e96a78816db69094db03dbac040ba4bef6b/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/sofiane/.android/build-cache/23027e4b2d98afc689caf52bf3058bd9dd037500/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/sofiane/.android/build-cache/abe1d96863fb12e65f7743da326f74c7ddab4d63/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/sofiane/.android/build-cache/87bc92d58912a6795ae8ba3be2e8bb5dd2574c40/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/sofiane/.android/build-cache/ad96c315fb8ae91b3c7d99f765242505e5cd5386/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/sofiane/.android/build-cache/df28abb5628b004e6eac6baade46e128b8a27654/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/sofiane/.android/build-cache/f6823397881209edf1ab92eb727d1c3dca8fbd43/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/sofiane/.android/build-cache/2ffdfa199aee69b8dc9d347c90cecfd02f4d1370/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/sofiane/.android/build-cache/4f3ec2e4693c78effe4837390631c900cb8a9d2c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/sofiane/.android/build-cache/8bc02e018fac9043b810595d670663225e8ad1de/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/sofiane/.android/build-cache/c894f3cb0e17a3d9c2a6ffc209114517291717f8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/sofiane/.android/build-cache/9ac8ed0c219bb7fe27cad5b69d5d2ee3ed125837/output/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:15:9-41
 	android:supportsRtl
-		ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:17:9-35
 	android:roundIcon
-		ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:16:9-54
+		ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:16:9-48
 	android:allowBackup
-		ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:13:9-35
 	android:icon
-		ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:14:9-43
+		ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:14:9-43
 	android:theme
-		ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:18:9-45
+		ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:18:9-45
 activity#com.juggernaut.hotspot.MainActivity
-ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:19:9-25:20
+ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:19:9-25:20
 	android:name
-		ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:19:19-47
+		ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:19:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:20:13-24:29
+ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:21:17-69
+ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:21:25-66
+		ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:23:17-77
+ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from C:\Hotspot\app\src\main\AndroidManifest.xml:23:27-74
+		ADDED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml:23:27-74
 uses-sdk
-INJECTED from C:\Hotspot\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Android\.android\build-cache\9a5f048a50b08f18e3ac9afc74948cdec750df4e\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:design:26.0.0-alpha1] C:\Android\.android\build-cache\195faae07530c3583ba889402fe07db761e89294\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Android\.android\build-cache\410ce6de3c9351d192c10bf53641a3bf63c21224\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Android\.android\build-cache\e1fa3c3d1a6779b05ccbd47c77aa4549d287f921\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Android\.android\build-cache\a00be6e534d5d1030a804779b53ca8f0f25b80b2\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Android\.android\build-cache\b4162698fc77c288d19b82df52fd82a4ed829348\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Android\.android\build-cache\20f7f9d075d0ca9b56b66f127f3b18428f02d04b\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Android\.android\build-cache\d1a101cc056c064b50bab538c47060b4dac631d7\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Android\.android\build-cache\de6e48767b4b83a870ddf3088c16bd16f0d447ff\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Android\.android\build-cache\abed571863e4f157061f44b36bb046c33e08e8a4\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Android\.android\build-cache\2c0d318132a933e5d8ffefe4a1d459d626cc9b15\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Android\.android\build-cache\3faf47e8b7f7d35c4e48e196c6010bf67fa99ff5\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Android\.android\build-cache\bedbe5bfaac572a217fc9a6476ee39ab4b7f8ce8\output\AndroidManifest.xml:21:5-23:58
+INJECTED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/sofiane/.android/build-cache/e7a43e96a78816db69094db03dbac040ba4bef6b/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/sofiane/.android/build-cache/23027e4b2d98afc689caf52bf3058bd9dd037500/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/sofiane/.android/build-cache/abe1d96863fb12e65f7743da326f74c7ddab4d63/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/sofiane/.android/build-cache/87bc92d58912a6795ae8ba3be2e8bb5dd2574c40/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/sofiane/.android/build-cache/ad96c315fb8ae91b3c7d99f765242505e5cd5386/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/sofiane/.android/build-cache/273fecc0a39eb413b196b2a2d45c5692e6e444ff/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/sofiane/.android/build-cache/df28abb5628b004e6eac6baade46e128b8a27654/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/sofiane/.android/build-cache/f6823397881209edf1ab92eb727d1c3dca8fbd43/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/sofiane/.android/build-cache/2ffdfa199aee69b8dc9d347c90cecfd02f4d1370/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/sofiane/.android/build-cache/4f3ec2e4693c78effe4837390631c900cb8a9d2c/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/sofiane/.android/build-cache/8bc02e018fac9043b810595d670663225e8ad1de/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/sofiane/.android/build-cache/c894f3cb0e17a3d9c2a6ffc209114517291717f8/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/sofiane/.android/build-cache/9ac8ed0c219bb7fe27cad5b69d5d2ee3ed125837/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Android\.android\build-cache\195faae07530c3583ba889402fe07db761e89294\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/sofiane/.android/build-cache/23027e4b2d98afc689caf52bf3058bd9dd037500/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Hotspot\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Hotspot\app\src\main\AndroidManifest.xml
+		INJECTED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Hotspot\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Hotspot\app\src\main\AndroidManifest.xml
+		INJECTED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sofiane/AndroidStudioProjects/WiFi-Hotspot-Sof/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.0.0-alpha1] C:\Android\.android\build-cache\195faae07530c3583ba889402fe07db761e89294\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Android\.android\build-cache\410ce6de3c9351d192c10bf53641a3bf63c21224\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Android\.android\build-cache\e1fa3c3d1a6779b05ccbd47c77aa4549d287f921\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Android\.android\build-cache\a00be6e534d5d1030a804779b53ca8f0f25b80b2\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Android\.android\build-cache\b4162698fc77c288d19b82df52fd82a4ed829348\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Android\.android\build-cache\20f7f9d075d0ca9b56b66f127f3b18428f02d04b\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Android\.android\build-cache\d1a101cc056c064b50bab538c47060b4dac631d7\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Android\.android\build-cache\de6e48767b4b83a870ddf3088c16bd16f0d447ff\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Android\.android\build-cache\abed571863e4f157061f44b36bb046c33e08e8a4\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Android\.android\build-cache\2c0d318132a933e5d8ffefe4a1d459d626cc9b15\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Android\.android\build-cache\3faf47e8b7f7d35c4e48e196c6010bf67fa99ff5\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Android\.android\build-cache\bedbe5bfaac572a217fc9a6476ee39ab4b7f8ce8\output\AndroidManifest.xml:25:5-27:41
+ADDED from [com.android.support:design:26.0.0-alpha1] /home/sofiane/.android/build-cache/23027e4b2d98afc689caf52bf3058bd9dd037500/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/sofiane/.android/build-cache/abe1d96863fb12e65f7743da326f74c7ddab4d63/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/sofiane/.android/build-cache/87bc92d58912a6795ae8ba3be2e8bb5dd2574c40/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/sofiane/.android/build-cache/ad96c315fb8ae91b3c7d99f765242505e5cd5386/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/sofiane/.android/build-cache/273fecc0a39eb413b196b2a2d45c5692e6e444ff/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/sofiane/.android/build-cache/df28abb5628b004e6eac6baade46e128b8a27654/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/sofiane/.android/build-cache/f6823397881209edf1ab92eb727d1c3dca8fbd43/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/sofiane/.android/build-cache/2ffdfa199aee69b8dc9d347c90cecfd02f4d1370/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/sofiane/.android/build-cache/4f3ec2e4693c78effe4837390631c900cb8a9d2c/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/sofiane/.android/build-cache/8bc02e018fac9043b810595d670663225e8ad1de/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/sofiane/.android/build-cache/c894f3cb0e17a3d9c2a6ffc209114517291717f8/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/sofiane/.android/build-cache/9ac8ed0c219bb7fe27cad5b69d5d2ee3ed125837/output/AndroidManifest.xml:25:5-27:41
 	android:value
-		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Android\.android\build-cache\195faae07530c3583ba889402fe07db761e89294\output\AndroidManifest.xml:27:9-38
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/sofiane/.android/build-cache/23027e4b2d98afc689caf52bf3058bd9dd037500/output/AndroidManifest.xml:27:9-38
 	android:name
-		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Android\.android\build-cache\195faae07530c3583ba889402fe07db761e89294\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/sofiane/.android/build-cache/23027e4b2d98afc689caf52bf3058bd9dd037500/output/AndroidManifest.xml:26:9-47

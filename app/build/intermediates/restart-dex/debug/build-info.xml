@@ -1,104 +1,170 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="23"
+    abi="x86"
+    api-level="22"
     build-mode="FULL"
-    density="xxhdpi"
+    density="420dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1499864560608"
+    timestamp="1501576828395"
     token="-2682707436052204925"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="2410" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1312" />
+        duration="0" />
     <task
         name="verifier"
-        duration="203" />
+        duration="0" />
 
     <artifact
-        location="C:\Hotspot\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Hotspot\app\build\outputs\apk\app-debug.apk"
+        location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\Hotspot\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/outputs/apk/app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1499864560608"
+        timestamp="1501576828395"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Hotspot\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Hotspot\app\build\outputs\apk\app-debug.apk"
+            location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\Hotspot\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/C:\Hotspot\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/sofiane/AndroidStudioProjects/WiFi-Hotspot/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 
