@@ -1,3 +1,2 @@
-# WiFi-Hotspot
-This App Creates WiFi Hotpot.
-App is compatible with all of your devices.
+# skynfc
+This App can read NFC tags in the Skylights glasses and send all the tags read (classified in an Excel file) via an email.
